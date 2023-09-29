@@ -60,6 +60,7 @@ Institut Cartogràfic i Geològic de Catalunya, Fons de la guerra civil (1936-19
 
 -----
 Primera actualització -> 25 de setembre de 2023
+
 Última actualització -> 30 de setembre de 2023
 
 

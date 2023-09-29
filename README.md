@@ -8,7 +8,7 @@ Conesa, F.C., 2023, L’últim front al Maresme: la batalla del Turó del Balís
 
 Manuscrit enviat per avaluació a Ebre 38. Revista Internacional de la Guerra Civil -> https://revistes.ub.edu/index.php/ebre38
 
-Enllaç a la publiació -> [tba] 
+Enllaç a la publicació -> [tba] 
 
 Aquest repositori inclou els següents arxius: 
 
@@ -52,11 +52,11 @@ Institut Cartogràfic i Geològic de Catalunya, Fons de la guerra civil (1936-19
 
 # R scripts
 
-1. 1098_kms.R 
-2. 1095_artilleria.R 
-3. 1091_presoners.R 
-4. 1092_baixesDia.R
-5. 1089_baixesZona.R
+a. 1098_kms.R 
+b. 1095_artilleria.R 
+c. 1091_presoners.R 
+d. 1092_baixesDia.R
+e. 1089_baixesZona.R
 
 -----
 Primera actualització -> 25 de setembre de 2023

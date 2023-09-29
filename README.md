@@ -52,11 +52,11 @@ Institut Cartogràfic i Geològic de Catalunya, Fons de la guerra civil (1936-19
 
 # R scripts
 
-a. 1098_kms.R 
-b. 1095_artilleria.R 
-c. 1091_presoners.R 
-d. 1092_baixesDia.R
-e. 1089_baixesZona.R
+1. 1098_kms.R 
+2. 1095_artilleria.R 
+3. 1091_presoners.R 
+4. 1092_baixesDia.R
+5. 1089_baixesZona.R
 
 -----
 Primera actualització -> 25 de setembre de 2023

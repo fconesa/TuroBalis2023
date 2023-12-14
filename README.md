@@ -4,11 +4,11 @@
 
 Dades suplementàries que acompanyen l'article:
 
-Conesa, F.C., 2023, L’últim front al Maresme: la batalla del Turó del Balís a finals de gener de 1939. 
+Conesa, F. C. (2023). L’últim front al Maresme: la batalla del Turó del Balís a finals de gener de 1939. 
+Ebre 38: Revista Internacional De La Guerra Civil, 1936-1939, 13(13), 7–35. 
+https://doi.org/10.1344/ebre38.2023.13.44847
 
-Manuscrit enviat per avaluació a Ebre 38. Revista Internacional de la Guerra Civil -> https://revistes.ub.edu/index.php/ebre38
-
-Enllaç a la publicació -> [tba] 
+Enllaç a la publicació -> https://revistes.ub.edu/index.php/ebre38/article/view/44847 
 
 Aquest repositori inclou els següents arxius: 
 
@@ -61,7 +61,7 @@ Institut Cartogràfic i Geològic de Catalunya, Fons de la guerra civil (1936-19
 -----
 Primera actualització -> 25 de setembre de 2023
 
-Última actualització -> 30 de setembre de 2023
+Última actualització -> 14 de desembre de 2023
 
 
 ----- FI -----
